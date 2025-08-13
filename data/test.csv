@@ -1,0 +1,2 @@
+project,pools,pool_sizes,reference,input,vcf_index
+assesspool_test,,"51,46,57,24,47,57,47,44,40,50",https://raw.githubusercontent.com/mhoban/test-datasets/assesspool/data/reference.fasta,https://raw.githubusercontent.com/mhoban/test-datasets/assesspool/data/test_snps.vcf,
