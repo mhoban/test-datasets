@@ -1,0 +1,2 @@
+project	pools	pool_sizes	reference	input	vcf_index
+small_test		51,46,57,24,47,57,47,44,40,50	data/ref4.fasta	data/small.vcf	
