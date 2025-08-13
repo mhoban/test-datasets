@@ -1,0 +1,2 @@
+project,pools,pool_sizes,reference,input,vcf_index
+assesspool_test,,"51,46,57,24,47,57,47,44,40,50",https://zenodo.org/records/13388658/files/example_reference.fasta?download=1,https://zenodo.org/records/13388658/files/example_TotalRawSNPs.vcf?download=1,
